@@ -13,8 +13,4 @@ OpenCV is written natively in C/C++. It has C++, C, Python and Java interfaces a
 
 Face detection has gained a lot of attention due to its real-time applications. A lot of research has been done and still going on for improved and fast implementation of the face detection algorithm. Why is face detection difficult for a machine? Face detection is not as easy as it seems due to lots of variations of image appearance, such as pose variation (front, non-front), occlusion, image orientation, illumination changes and facial expression.
 
-OpenCV contains many pre-trained classifiers for face, eyes, smile etc. The XML files of pre-trained classifiers are stored in opencv/data/. For face detection specifically, there are two pre-trained classifiers:
-
-  1.Haar Cascade Classifier
-  2.LBP Cascade Classifier
 
